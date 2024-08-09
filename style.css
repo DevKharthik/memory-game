@@ -54,7 +54,6 @@ h1 {
 .card .front {
     transform: rotateY(180deg);
 }
-
 .card .back {
     background-color: #19f00a;
     color: white;
