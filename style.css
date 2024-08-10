@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #d9fe05;
 }
 
 h1 {
@@ -22,12 +22,12 @@ h1 {
 .card {
     width: 100px;
     height: 100px;
-    background-color: #333;
+    background-color: #e40981;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 24px;
-    color: white;
+    color: rgb(203, 14, 14);
     cursor: pointer;
     position: relative;
 }
@@ -56,5 +56,5 @@ h1 {
 }
 .card .back {
     background-color: #3a0ad6;
-    color: white;
+    color: rgb(26, 235, 15);
 }
